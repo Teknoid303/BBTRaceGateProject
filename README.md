@@ -3,18 +3,19 @@
 This project is an extension of the original code I created for the BBT Tiny Whoop Race Gates. 
 I've expanded and simpified the code and schematics for use with a new open-source project.
 
-These gates were (at one time) manufactured under my company, [Bright Blue Tech](https://www.facebook.com/BrightBlueDroneTech/)
+These gates were (at one time) manufactured under my company, [Bright Blue Tech](https://www.facebook.com/BrightBlueDroneTech/). We have now joined the [Hydra FPV](https://www.hydrafpv.com/) family.
 
 # Table of Contents
 1. [Releases](#releases)
 2. [Features](#features)
 3. [Overview](#overview)
-4. [Hardware](#hardware)
-5. [Firmware](#firmware)
-6. [Stands](#stands)
-7. [Power](#power)
-8. [Contributing](#contributing)
-9. [License](#license)
+4. [Electronics](#electronics)
+5. [Hardware](#Hardware)
+6. [Firmware](#firmware)
+7. [Stands](#stands)
+8. [Power](#power)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 # Releases
 The latest release can be found here. [Latest Releases](insert project here)
@@ -44,12 +45,16 @@ To enter specific display modes:
 5. **Save Settings** - Change all the above parameters to your desired setup, then hold the button down until the third segment of the gate lights up. Before the red countdown reaches zero, do the same thing again to confirm. A blue flash will confirm that the settings were saved.
 6. **Erase Settings** - Do the same as above, but wait for the fourth segment to light up. All settings will be erased.
 
+# Electronics
+# ![Schematic](media/BBTRGPSchematic.jpg)
+
 # Hardware
+According to the MultiGP Tiny Whoop racing specs, the maximum area of a gate is 361 square inches or less. That works out to a circumference of about 67" and will result in a nearly 21.5" diameter gate. There is a 1" gap introduced in the 3D base mount, so 66" section of PEX pipe should be perfect. This will fit about 106 LEDs when the strand is flattened and pulled to center. 
 
 # Firmware
 
 # Stands
-
+Portability was a major factor for our Whoop races in Northern Colorado. We had several different venues, one kit, and nowhere to setup a permanant track. Based on this, I built in a 3/4" NPT threaded mount in the bottom of my boxes. This way, I could just purchase PVC pipes and fittings from my local hardware store and create almost any configuration I wanted. AND, it would be portable.
 # Power
 
 # Contributing
