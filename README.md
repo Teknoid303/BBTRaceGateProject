@@ -36,6 +36,7 @@ Matt Nowakowski and Flite Test have been SUPER GENEROUS and created a video of t
     <a href="https://www.youtube.com/watch?v=???????????"><img src="https://img.youtube.com/vi/??????????????/0.jpg"></a>
 </p>
 To enter specific display modes:
+
 1. **Select Brightness** - Turn the selector to the desired brightness. The gate will progressively show a dial to represent brightness.
 2. **Select Pattern** - Press the selector in (button) to select the pattern you like and it will hold that pattern.
 3. **Return to Sequence Mode** - Press the button and hold until the first gate segment lights up. Release and you will start progressing through the patterns again, once every 20 seconds.
