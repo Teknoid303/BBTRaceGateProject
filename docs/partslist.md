@@ -1,4 +1,4 @@
-**BBT Race Gate Parts List**
+#BBT Race Gate Parts List
 
 These parts can be purchased from anywhere, but the links allow me to show examples.
 
