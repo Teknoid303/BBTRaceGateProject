@@ -54,7 +54,8 @@ According to the MultiGP Tiny Whoop racing specs, the maximum area of a gate is 
 # Firmware
 
 # Stands
-Portability was a major factor for our Whoop races in Northern Colorado. We had several different venues, one kit, and nowhere to setup a permanant track. Based on this, I built in a 3/4" NPT threaded mount in the bottom of my boxes. This way, I could just purchase PVC pipes and fittings from my local hardware store and create almost any configuration I wanted. AND, it would be portable.
+Portability was a major factor for our Whoop races in Northern Colorado. We had several different venues, one kit, and nowhere to setup a permanant track. Based on this, I built in a 1/2" NPT threaded mount in the bottom of my boxes. This way, I could just purchase PVC pipes and fittings from my local hardware store and create almost any configuration I wanted. AND, it would be portable.
+
 # Power
 
 # Contributing
