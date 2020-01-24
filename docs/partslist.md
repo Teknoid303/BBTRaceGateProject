@@ -8,6 +8,6 @@ Here is a list of the parts you will need to build a race gate. There are links 
 - 1 - Rotary Encoder Knob - https://www.amazon.com/uxcell-Potentiometer-Control-Electric-Acrylic/dp/B07T4YWZFR
 - 1 - 5.5mm x 2.1mm Barrel Jack - https://www.amazon.com/ThreeBulls-Pieces-5-5mmx2-1mm-Female-Connector/dp/B01N8VV78D
 - 1 - LED Strip - DC 5V WS2812B strip 60leds/m IP30 5m/roll white - https://www.aliexpress.com/item/32242633143.html
-- 1 - 5 ft White PEX Piping -  https://www.lowes.com/pd/SharkBite-1-2-in-x-100-ft-PEX-Pipe/1000168483
+- 1 - 5 ft 1/2" White PEX Piping -  https://www.lowes.com/pd/SharkBite-1-2-in-x-100-ft-PEX-Pipe/1000168483
 - 1 - 470 ohm resistor - https://www.amazon.com/EDGELEC-Resistor-Tolerance-Multiple-Resistance/dp/B07QG1V4BH
 - Various Wire
