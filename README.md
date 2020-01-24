@@ -60,7 +60,7 @@ According to the MultiGP Tiny Whoop racing specs, the maximum area of a gate is 
 
 ![Parts List](docs/partslist.md)
 
-According to the MultiGP Tiny Whoop racing specs, the maximum area of a gate is 361 square inches or less. That works out to a circumference of about 67" and will result in a nearly 21.5" diameter gate. There is a 1" gap introduced in the 3D base mount, so 66" section of PEX pipe should be perfect. This will fit about 106 LEDs when the strand is flattened and pulled to center. 
+According to the MultiGP Tiny Whoop racing specs, the maximum area of a gate is 361 square inches or less. That works out to a circumference of about 67" and will result in a nearly 21.5" diameter gate. There is a 1" gap introduced in the 3D base mount, so 66" section of PEX pipe should be perfect. This will fit about 100 LEDs when the strand is flattened and pulled to center. That's 3 gates per roll of LEDs.
 
 # The Build
 
