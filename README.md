@@ -6,16 +6,20 @@ I've expanded and simplified the code and schematics for use with a new open-sou
 These gates were (at one time) sold under my company, [Bright Blue Tech](https://www.facebook.com/BrightBlueDroneTech/). We have now joined the [Hydra FPV](https://www.hydrafpv.com/) family.
 
 # Table of Contents
-1. [Releases](#releases)
-2. [Features](#features)
-3. [Overview](#overview)
-4. [Electronics](#electronics)
-5. [Hardware](#Hardware)
-6. [Firmware](#firmware)
-7. [Stands](#stands)
-8. [Power](#power)
-9. [Contributing](#contributing)
-10. [License](#license)
+1. [Social](#social)
+2. [Releases](#releases)
+3. [Features](#features)
+4. [Overview](#overview)
+5. [Electronics](#electronics)
+6. [Hardware](#Hardware)
+7. [Firmware](#firmware)
+8. [Stands](#stands)
+9. [Power](#power)
+10. [Contributing](#contributing)
+11. [License](#license)
+
+# Social
+Find us at [BBT Race Gate Project - Open Source](https://www.facebook.com/groups/BBTRaceGateProject/)
 
 # Releases
 The latest release can be found in [Latest Releases](https://github.com/Teknoid303/BBTRaceGateProject/releases).
