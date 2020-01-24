@@ -21,6 +21,8 @@ These gates were (at one time) sold under my company, [Bright Blue Tech](https:/
 The latest release can be found in [Latest Releases](https://github.com/Teknoid303/BBTRaceGateProject/releases).
 
 # Features
+![Gate](media/BBTRaceGateProject.jpg)
+
 - **Easy to Build** - This design makes use of two 3D printed parts, PEX water pipe, an Arduino NANO board, and some easily ordered parts.
 - **Expandable Sizes** - [MultiGP specs for Tiny Whoop race gates](https://drive.google.com/file/d/0BxRbCdCm27o1R1luRWhKbHprbDA/view?usp=sharing) are specific, but these gates can be made in any size you desire.
 - **Easily Mountable** - The 1/2" NPT PVC pipe thread built into the bottom of the base allows you to securely attach the gate to any stand, hanger, or wild contraption you can build with PVC pipes and components. Let your imagination run wild... or just use some of my [example stands](#stands).
@@ -51,6 +53,10 @@ To enter specific display modes:
 According to the MultiGP Tiny Whoop racing specs, the maximum area of a gate is 361 square inches or less. That works out to a circumference of about 67" and will result in a nearly 21.5" diameter gate. There is a 1" gap introduced in the 3D base mount, so 66" section of PEX pipe should be perfect. This will fit about 106 LEDs when the strand is flattened and pulled to center.
 
 [Thingiverse Project](https://www.thingiverse.com/thing:4101973)
+
+![Gate](media/BBTRaceGateProject2.jpg)
+
+## Parts List 
 
 ![Parts List](docs/partslist.md)
 
