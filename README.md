@@ -3,7 +3,8 @@
 This project is an extension of the original code I created for the BBT Tiny Whoop Race Gates. 
 I've expanded and simplified the code and schematics for use with a new open-source project.
 
-These gates were (at one time) sold under my company, [Bright Blue Tech](https://www.facebook.com/BrightBlueDroneTech/). We have now joined the [Hydra FPV](https://www.hydrafpv.com/) family.
+These gates were (at one time) under BrightBlue and we have joined the [Hydra FPV](https://www.hydrafpv.com/) family. 
+We are dedicated to teaching youth about electronics, robotics, and programming through competition via drone racing.
 
 # Table of Contents
 1. [Social](#social)
